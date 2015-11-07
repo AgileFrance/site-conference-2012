@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	66=SKROpGcqtTtWKVHfcq7e-YDt5prRq04CRkdCbxhO1ktl5yRQrPLnv7Byvgq1xOOmHRcc0T3jMiB_6I4ZWY0qA9WVxIr9kolkvlsZgtAX1IPI6Niw7PsDTZKEO1n31x8f
+conf.agile-france.org	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
